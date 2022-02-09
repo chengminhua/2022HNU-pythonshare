@@ -1,0 +1,19 @@
+# -*— coding:utf_8 -*-
+"""
+作者:程民华
+日期:2021年10月17日
+"""
+'''
+map可接受两个参数，一个定义输入的东西类型（在前面），一个是input，用逗号隔开
+split表示可接受多个参数的输入，但需要空格隔开
+输入几个参数，等号右边就需要几个储存变量的容器
+sorted函数可以调整列表中的元素的顺序（默认从小到大，可用reverse=Ture反转）
+关于sorted中的一些排序规则：
+1：int函数下只能排数字，没啥问题；
+2：str函数下也可进行排序，纯数字下从前往后依次比较，是一个一个看的。如果纯字母，则是26个字母表的顺序拍，若数字和字母都有，则数字在前，字母在后'''
+a,b,c=map(int,input('输入任意个整数，空格分开，进行排序：').split())
+list1=[a,b,c]
+new_list=sorted(list1)
+new2_list=sorted(list1,reverse=True)
+print(new_list,list1,new2_list)
+print(type(a))
