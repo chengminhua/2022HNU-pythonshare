@@ -2,3 +2,5 @@
 
 [第二章-Python语言基础-2.1简单计算问题的求解](https://www.bilibili.com/video/BV1uF411b7E3?share_source=copy_web) 
 
+[**第二章-Python语言基础-2.2条件分支（一）**](https://www.bilibili.com/video/BV1wY411V7jr/)
+
