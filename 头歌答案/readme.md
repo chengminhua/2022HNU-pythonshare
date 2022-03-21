@@ -6,3 +6,5 @@
 
 [第二章-Python语言基础-2.3循环（一）](https://www.bilibili.com/video/BV1PL411P7Pa?share_source=copy_web)
 
+[第二章-Python语言基础-2.3循环（二）](https://www.bilibili.com/video/BV1jS4y1g7ks?share_source=copy_web)
+
