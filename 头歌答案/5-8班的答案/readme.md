@@ -4,3 +4,5 @@
 
 [**第三章- python编程基础：3.3条件分支（HNU）**](https://www.bilibili.com/video/BV1fq4y1e78J?share_source=copy_web)
 
+[第三章-python编程基础-3.4循环（HNU）](https://www.bilibili.com/video/BV1JT4y1i7HX?share_source=copy_web)
+
