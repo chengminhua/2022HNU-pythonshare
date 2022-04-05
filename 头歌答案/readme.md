@@ -10,3 +10,7 @@
 
 [第二章-Python语言基础-2.4列表(理）](https://www.bilibili.com/video/BV1P44y1K7aj?share_source=copy_web)
 
+[python基础-组合数据类型1](https://www.bilibili.com/video/BV16P4y1K7ay?share_source=copy_web)
+
+[第二章-Python语言基础-2.6字符串处理](https://www.bilibili.com/video/BV1oi4y1S7xN?share_source=copy_web)
+
