@@ -14,3 +14,5 @@
 
 [第二章-Python语言基础-2.6字符串处理](https://www.bilibili.com/video/BV1oi4y1S7xN?share_source=copy_web)
 
+[第二章-Python语言基础-2.8字符串基本操作（理）](https://www.bilibili.com/video/BV1Di4y1D7ES?share_source=copy_web)
+
